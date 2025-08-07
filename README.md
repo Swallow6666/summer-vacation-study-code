@@ -1,1 +1,1 @@
-# summer-vacation-study-code
+# Summer Vacation Study Code
